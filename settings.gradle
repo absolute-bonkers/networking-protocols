@@ -1,0 +1,4 @@
+rootProject.name = 'networking-protocols'
+
+include 'network-models', 'http-evolution', 'dns', 'load-balancing', 'proxies',
+        'tls-https', 'realtime', 'connections'
